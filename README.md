@@ -2,6 +2,7 @@
 
 This is a recreation of the filawinder firmware by Ian Johnson. The documentation for the project can be found here:
 http://www.soliforum.com/topic/5088/filawinder-documentation/
+
 Print files and BOM are published on thingiverse: https://www.thingiverse.com/thing:174383
 
 ## Setup
